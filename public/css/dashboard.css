@@ -1,0 +1,191 @@
+.bi {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+}
+
+
+/*
+ * Sidebar
+ */
+
+@media (min-width: 768px) {
+  .sidebar .offcanvas-lg {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 48px;
+  }
+  .navbar-search {
+    display: block;
+  }
+}
+
+.sidebar .nav-link {
+  font-size: .875rem;
+  font-weight: 500;
+  color: rgba(243, 8, 137, 0.788);
+}
+
+
+.sidebar-heading {
+  font-size: .75rem;
+}
+
+/*
+ * Navbar
+ */
+
+.navbar{
+  background-color: pink;
+}
+
+.navbar-brand {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  background-color: pink;
+  box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
+}
+
+.navbar .form-control {
+  padding: .75rem 1rem;
+}
+
+/*
+ * data
+ */
+
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.table th,
+.table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border: 1px solid #dee2e6;
+}
+
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+
+/* CSS untuk mengatur warna baris tabel */
+.table-primary,
+.table-primary > th,
+.table-primary > td {
+  background-color: #b8daff;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+}
+
+.btn-primary:hover {
+  background: black;
+}
+
+
+
+/*
+ * create
+ */
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.form-control {
+  width: 50%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.tanggal {
+  width: 30%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+/*search*/
+.search {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+}
+
+.form-control{
+  margin-right: 10px;
+  width: 250px;
+}
+
+.form-inline {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+
+.card {
+  margin-bottom: 20px; 
+  padding: 15px; 
+  border-radius: 8px; 
+  height: 200px;
+  border: 1px solid #ced4da; 
+  background-color: #fdd2ee;
+}
+
+.card-body {
+  padding: 20px; 
+}
+
+.card-title {
+  font-size: 1.25rem;
+}
+
+.card-text {
+  color: #6c757d; 
+}
+
+
+/* Atur lebar gambar */
+.table tbody img {
+  width: 100px; /* Atur lebar sesuai kebutuhan */
+  height: auto; /* Agar gambar tetap proporsional */
+}
+
+/* Atur tata letak gambar ke tengah */
+.table tbody img {
+  display: block;
+  margin: 0 auto;
+}
+

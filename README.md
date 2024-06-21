@@ -26,4 +26,16 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 <img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/ac0a46a3-da04-4426-9b25-43da0322e234" width="300" height="200">
 <img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/aca9ba7d-4f4c-4ab6-ac75-404334bec255" width="300" height="200">
 <img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/436d1a0a-6438-450a-a6d1-9460e609ade2" width="300" height="200">
-<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/70d8084f-e6c7-4122-bf14-afec53708996)" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/70d8084f-e6c7-4122-bf14-afec53708996" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/ec308b1e-aa2f-4b71-8a4b-e22b83694e54" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/6c944f69-90a5-420f-9077-58de4eaa11bd" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/83b5302a-c146-4e00-a467-d464fb235f6b" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/a058c660-6645-4361-bac7-831c92203e60" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/8abf91d4-4d0a-47b3-ae1e-7b5cfd0a1232" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/1234546b-a9fd-4996-8443-cc97f865bb4e" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/c3d279e2-000b-459e-84ec-83aaee3edff9" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/f62f92b9-5afb-4b18-ae24-b4fffec40bf9" width="300" height="200">
+
+
+
+

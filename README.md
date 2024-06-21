@@ -24,3 +24,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Screenshots
 
 <img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/ac0a46a3-da04-4426-9b25-43da0322e234" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/aca9ba7d-4f4c-4ab6-ac75-404334bec255" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/436d1a0a-6438-450a-a6d1-9460e609ade2" width="300" height="200">
+<img src="https://github.com/putriiqlimaaa/web-perpustakaan-api/assets/154120863/70d8084f-e6c7-4122-bf14-afec53708996)" width="300" height="200">
